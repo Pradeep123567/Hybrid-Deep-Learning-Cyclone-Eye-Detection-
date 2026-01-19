@@ -31,10 +31,6 @@ Five comparative tasks were evaluated:
 ## Tech Stack
 Python, OpenCV, YOLOv8, TensorFlow, K-Means, Otsu Thresholding
 
-## Usage
-1. Run preprocessing scripts from `/preprocessing`
-2. Train YOLOv8 using `/yolo_training/train.py`
-3. Perform inference using `/yolo_training/infer.py`
 
 ## Future Work
 - Temporal cyclone tracking
